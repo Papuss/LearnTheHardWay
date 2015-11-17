@@ -1,4 +1,4 @@
-# http://learnpythonthehardway.org/book/ex35.html
+ä# http://learnpythonthehardway.org/book/ex35.html
 
 from sys import exit
 

@@ -1,4 +1,4 @@
-# http://learnpythonthehardway.org/book/ex38.html
+ä# http://learnpythonthehardway.org/book/ex38.html
 
 ten_things = "Apples Oranges Crows Telephone Light Sugar"
 

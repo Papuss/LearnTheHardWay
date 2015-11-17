@@ -1,4 +1,4 @@
-# http://learnpythonthehardway.org/book/ex39.html
+ä# http://learnpythonthehardway.org/book/ex39.html
 
 # create a mapping of state to abbreviation
 states = {

@@ -1,4 +1,4 @@
-# http://learnpythonthehardway.org/book/ex33.html
+ä# http://learnpythonthehardway.org/book/ex33.html
 
 i = 0
 numbers = []

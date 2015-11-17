@@ -1,4 +1,4 @@
-# http://learnpythonthehardway.org/book/ex41.html
+ä# http://learnpythonthehardway.org/book/ex41.html
 
 import random
 from urllib.request import urlopen
